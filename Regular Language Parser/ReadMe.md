@@ -1,6 +1,7 @@
 # DFA Simulator
 
-This subproject simulates a **Deterministic Finite Automaton (DFA)**. It reads its configuration from an external text file ('model2.txt') and evaluates whether a given input string is accepted by the automaton.
+This subproject simulates a **Deterministic Finite Automaton (DFA)**. The [Extended Version of the Automata Demo script](./automata_demo_extended.py)
+python script reads its configuration from an external text file (e.g., "model2.txt") and evaluates whether a given input string is accepted by the automaton.
 
 ## 📄 File Structure: 'model2.txt'
 
