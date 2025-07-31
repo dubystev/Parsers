@@ -21,8 +21,7 @@ This directory implements a **DFA-based simulator** that reads a configuration f
 |---------------------------|-----------------------------------------------------------------------------|
 | `automata_demo.py`        | Basic DFA simulator using hardcoded transition functions.                   |
 | `automata_demo_extended.py` | Extended DFA simulator that reads transitions, initial state, and final states from an external file (`model2.txt`). |
-| `model.txt`               | A sample DFA description (structure not used in extended version).          |
-| `model2.txt`              | Primary test file used with `automata_demo_extended.py`. Contains full DFA config (transitions, initial state, final states). |
+| `model.txt/model2.txt`      | Primary test files used with `automata_demo_extended.py`. Contains full DFA config (transitions, initial state, final states). |
 
 ### 🔹 2. `Shift_Reduce_Parser/`
 
