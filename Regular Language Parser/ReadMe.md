@@ -32,7 +32,7 @@ A space-separated list of one or more integers representing the final states of 
 
 ## 🧪 Example Configuration: 'model2.txt'
 
-
+```
 1 0 1
 1 1 2
 2 0 3
@@ -53,7 +53,7 @@ A space-separated list of one or more integers representing the final states of 
 1
 ******
 5 6 7 8
-
+```
 
 - **Initial State:** '1'
 - **Final States:** '5', '6', '7', '8'
